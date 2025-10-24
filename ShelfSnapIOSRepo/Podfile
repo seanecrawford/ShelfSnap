@@ -1,0 +1,13 @@
+platform :ios, '15.0'
+
+target 'ShelfSnapIOS' do
+  # Pods for object detection.  ML Kit is distributed via CocoaPods.
+  # See https://firebase.google.com/docs/ml-kit/ios/detect-objects for details.
+  use_frameworks!
+
+  pod 'GoogleMLKit/ObjectDetection'
+  pod 'GoogleMLKit/ObjectDetectionCommon'
+end
+
+# After editing this file, run `pod install` in the ShelfSnapIOS
+# directory to install dependencies.
