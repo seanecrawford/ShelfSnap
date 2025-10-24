@@ -1,0 +1,3 @@
+// settings.gradle for ShelfSnapAndroid project
+rootProject.name = "ShelfSnapAndroid"
+include(":app")

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.ShelfSnap" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorOnPrimary">@color/onPrimaryColor</item>
+        <item name="colorPrimaryContainer">@color/primaryContainerColor</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainerColor</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorOnSecondary">@color/onSecondaryColor</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainerColor</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainerColor</item>
+        <!-- Error colors -->
+        <item name="colorError">@color/errorColor</item>
+        <item name="colorOnError">@color/onErrorColor</item>
+        <!-- Background and surface -->
+        <item name="colorBackground">@color/backgroundColor</item>
+        <item name="colorOnBackground">@color/onBackgroundColor</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+        <item name="colorOnSurface">@color/onSurfaceColor</item>
+    </style>
+
+</resources>

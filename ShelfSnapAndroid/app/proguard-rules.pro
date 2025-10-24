@@ -1,0 +1,1 @@
+# Placeholder proguard rules file. Project uses Compose and Kotlin.
